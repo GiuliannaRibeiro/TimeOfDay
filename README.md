@@ -1,3 +1,2 @@
-# Hora-do-Dia
-Um pequeno projeto que de acordo com o horário do seu dispositivo, o site informa a hora e muda o seu fundo fundo.
-Baseado na video-aula do professor Gustavo Guanabara!
+#TimeOfDay
+A small project that according to the time of your device, it informs the time and changes your background.
